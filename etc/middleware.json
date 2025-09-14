@@ -1,0 +1,6 @@
+{
+    "concept-labs/http-session:session": {
+        "preference": "Concept\\HttpSession\\SessionMiddleware",
+        "priority": -1000
+    }
+}

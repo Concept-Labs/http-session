@@ -1,0 +1,9 @@
+{
+    "package": {
+        "concept-labs/http-session": {
+            "Concept\\HttpSession\\SessionMiddlewareInterface": {
+                "class": "Concept\\HttpSession\\SessionMiddleware"
+            }
+        }
+    }
+}
