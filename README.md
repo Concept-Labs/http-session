@@ -1,2 +1,2 @@
-# http-session
-PSR compatable HTTP session
+# http-session middleware
+PSR compatable HTTP session middleware
